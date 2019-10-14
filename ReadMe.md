@@ -1,0 +1,1 @@
+Links Utéis: https://devhints.io/git-log
